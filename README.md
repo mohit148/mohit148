@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Mohit 👋
 
-<!--
-**mohit148/mohit148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,js,git,linux" />
+</p>
 
-Here are some ideas to get you started:
+### 🌱 Learning / Exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,nodejs" />
+</p>
+
+**Libraries / Frameworks / DB / Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=electron,react,express,mongodb,aws,sql" />
+</p>
